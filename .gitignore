@@ -1,0 +1,4 @@
+# Project exclude paths
+/imoocsecuritybrowser/target/
+/imoocsecuritycore/target/
+/imoocsecuritydemo/target/
